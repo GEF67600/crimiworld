@@ -8,17 +8,16 @@ tags:
   - tueurs_en_couple
 date_naissance: 1953-07-15
 date_deces:
-statut:
+statut: condamnés. Beck est décédée en prison en 2008.
 pays: Australie
-image:
 ---
-Le meurtre sordide de Sian Kingi le
+# Le meurtre sordide de Sian Kingi
 
-| ![[sian-kingi.jpg]] |     |
-| ------------------- | --- |
-|                     |     |
-| ![[watts&beck.jpg]] |     |
-|                     |     |
+|                             ![[sian-kingi.jpg]]                              |     |
+| :--------------------------------------------------------------------------: | --- |
+| Sian Kingi, un ange assassiné le 27 novembre 1987 à Noosa Heads en Australie |     |
+|                             ![[watts&beck.jpg]]                              |     |
+|    Barrie John Watts et Valmae Fay Beck le couple assassin de Sian Kingi     |     |
 
 ## - Identité
 

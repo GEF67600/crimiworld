@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cbe93663fb42dae9",
+        "id": "74ed6c100ebbb241",
         "type": "tabs",
         "children": [
           {
-            "id": "23414f1913f611de",
+            "id": "51cbe5e40d080f06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Tueurs/Barrie Watts et Valmae Beck.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Barrie Watts et Valmae Beck"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -187,16 +183,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "23414f1913f611de",
+  "active": "51cbe5e40d080f06",
   "lastOpenFiles": [
-    "content/images/watts&beck.jpg",
+    "content/Tueurs/Ted Bundy.md",
+    "content/Tueurs/Richard Ramirez.md",
+    "content/Tueurs/Peter Sutcliffe.md",
+    "content/Tueurs/John Wayne Gacy.md",
+    "content/Tueurs/Jeffrey Dahmer.md",
+    "content/Tueurs/Harold Shipman.md",
+    "content/Tueurs/Fred et Rosemary West.md",
+    "content/Tueurs/Ed Gein.md",
+    "content/Tueurs/Dennis Rader.md",
     "content/Tueurs/Barrie Watts et Valmae Beck.md",
-    "content/images/Non confirmé 680790.crdownload",
+    "content/Tueurs/Andrei Chikatilo.md",
+    "content/Tueurs/Aileen Wuornos.md",
+    "content/Templates/Template-Fiche.md",
     "content/images/sian-kingi.jpg",
+    "content/images/watts&beck.jpg",
+    "content/images/Non confirmé 680790.crdownload",
     "content/images/Non confirmé 450636.crdownload",
     "content/images/watts&beck",
     "content/images/Non confirmé 896930.crdownload",
-    "content/Tueurs/Ted Bundy.md",
     "_site/images/banniere.jpg",
     "_site/images",
     "content/images/banniere.jpg",
@@ -208,7 +215,6 @@
     "content/Nouveau dossier",
     "_site/style.css",
     "content/_includes/Template-Fiche.md",
-    "content/Templates/Template-Fiche.md",
     "Bienvenue.md"
   ]
 }
