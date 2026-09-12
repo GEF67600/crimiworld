@@ -1,0 +1,98 @@
+:root {
+  --bg: #010202;
+  --bg-card: #16161a;
+  --text: #e8e6e3;
+  --text-dim: #9a958f;
+  --accent: #8b0000;
+  --border: #2a2a2e;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+}
+
+.site-header {
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.logo {
+  color: var(--accent);
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.4rem;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.fiche {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.fiche-entete {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.fiche-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 4px;
+  filter: sepia(20%) contrast(1.1);
+}
+
+.fiche h1 {
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
+}
+
+.fiche-meta {
+  color: var(--accent);
+  font-family: Arial, sans-serif;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.fiche-contenu h2 {
+  color: var(--accent);
+  font-size: 1.2rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+  font-family: Arial, sans-serif;
+}
+
+.fiche-contenu p {
+  color: var(--text-dim);
+}
+
+.logo-img {
+  max-height: 200px;
+  display: block;
+}
+
+/* Logo */
+
+.site-header {
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+}
+
+.logo-img {
+  display: inline-block;
+}
+
+/* Fin du logo */
