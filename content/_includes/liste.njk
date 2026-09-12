@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ titre }} — CRIMIWORLD</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="."><img src="images/banniere.jpg" alt="CRIMIWORLD" class="logo-img"></a>
+  </header>
+
+  <main class="fiche">
+    <h1>{{ titre }}</h1>
+    <ul class="liste-fiches">
+      {% for fiche in fiches %}
+      <li><a href="{{ fiche.url }}">{{ fiche.data.titre }}</a></li>
+      {% endfor %}
+    </ul>
+  </main>
+</body>
+</html>
