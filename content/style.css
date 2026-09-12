@@ -96,3 +96,56 @@ body {
 }
 
 /* Fin du logo */
+
+/* Menu de navigation */
+.menu {
+  margin-top: 1rem;
+}
+
+.menu a {
+  color: var(--text);
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.9rem;
+  padding: 0.5rem 1.2rem;
+  border: 1px solid var(--accent);
+  border-radius: 3px;
+  margin: 0 0.4rem;
+  transition: background 0.2s, color 0.2s;
+  display: inline-block;
+}
+
+.menu a:hover {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+/* Liste de fiches en cartes */
+.liste-fiches {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.liste-fiches li {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg-card);
+  transition: border-color 0.2s;
+}
+
+.liste-fiches li:hover {
+  border-color: var(--accent);
+}
+
+.liste-fiches a {
+  display: block;
+  padding: 1rem;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
