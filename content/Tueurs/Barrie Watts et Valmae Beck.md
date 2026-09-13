@@ -13,13 +13,13 @@ pays: Australie
 ---
 # Le meurtre sordide de Sian Kingi
 
-|                             ![Sian Kingi](\images/sian-kingi.jpg)                            |     |
+|                             ![Sian Kingi]({{ '/images/sian-kingi.jpg' | url }})                            |     |
 | :--------------------------------------------------------------------------: | --- |
 | Sian Kingi, un ange assassiné le 27 novembre 1987 à Noosa Heads en Australie |     |
-|                             ![Barrie Watts et Valmae Beck](/images/watts-beck.jpg)                            |     |
+|                             ![Barrie Watts et Valmae Beck]({{ '/images/watts-beck.jpg' | url }})                            |     |
 |    Barrie John Watts et Valmae Fay Beck le couple assassin de Sian Kingi     |     |
 
-## - Identité
+## Identité
 
 Barrie John Watts (né en 1953) et Valmae Fay Beck (1943-2008) sont un couple de meurtriers australiens condamnés pour l'enlèvement, le viol et l'assassinat de Sian Kingi, une fillette de 12 ans, en 1987 dans le Queensland.
 ## - Contexte
