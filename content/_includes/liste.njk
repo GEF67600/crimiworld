@@ -14,6 +14,14 @@
     <a href="Mafieux/">Mafieux</a>
     <a href="Escrocs/">Escrocs</a>
   </nav>
+    <div id="search"></div>
+<link href="pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
+</script>
 </header>
 
   <main class="fiche">
