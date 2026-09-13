@@ -29,6 +29,7 @@
   </header>
 
   <main class="fiche">
+    {% set fiches = collections[collectionKey] %}
     <h1>{{ titre }}</h1>
     <ul class="liste-fiches">
       {% for fiche in fiches %}
