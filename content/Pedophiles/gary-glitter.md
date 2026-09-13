@@ -19,7 +19,7 @@ pays: Royaume-Uni / Vietnam
 
 Gary Glitter, de son vrai nom Paul Gadd (né en 1944), est un ancien chanteur de pop-rock britannique devenu célèbre dans les années 1970 avec le style « glam rock ». Sa carrière s'est effondrée à la suite de multiples condamnations judiciaires pour des infractions sexuelles sur des mineurs commises au Royaume-Uni et en Asie du Sud-Est.
 
-## Contexte
+## Le Contexte
 
 Au sommet de sa popularité musicale dans les années 1970, Paul Gadd enchaîne les tubes internationaux. Cependant, à partir de la fin des années 1990, son passé et ses agissements délictueux commencent à être exposés au grand jour par la justice et les médias, entraînant sa marginalisation de l'industrie du disque et son départ du Royaume-Uni pour s'installer à l'étranger, notamment en Asie du Sud-Est.
 
