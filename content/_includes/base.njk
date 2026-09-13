@@ -4,33 +4,33 @@
   <meta charset="UTF-8">
   <title>{{ titre }} — CRIMIWORLD</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="{{ '/style.css' | url }}">
 </head>
 <body>
   <header class="site-header">
-  <a href="."><img src="images/banniere.jpg" alt="CRIMIWORLD" class="logo-img"></a>
-  <nav class="menu">
-    <a href="Tueurs/">Tueurs</a>
-    <a href="Mafieux/">Mafieux</a>
-    <a href="Escrocs/">Escrocs</a>
-  </nav>
-  <div id="search"></div>
-<link href="pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="pagefind/pagefind-ui.js"></script>
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({
-      element: "#search",
-      showSubResults: true,
-      translations: { placeholder: "Rechercher" }
-    });
-  });
-</script>
-</header>
+    <a href="{{ '/' | url }}"><img src="{{ '/images/banniere.jpg' | url }}" alt="CRIMIWORLD" class="logo-img"></a>
+    <nav class="menu">
+      <a href="{{ '/Tueurs/' | url }}">Tueurs</a>
+      <a href="{{ '/Mafieux/' | url }}">Mafieux</a>
+      <a href="{{ '/Escrocs/' | url }}">Escrocs</a>
+    </nav>
+    <div id="search"></div>
+    <link href="{{ '/pagefind/pagefind-ui.css' | url }}" rel="stylesheet">
+    <script src="{{ '/pagefind/pagefind-ui.js' | url }}"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', () => {
+        new PagefindUI({
+          element: "#search",
+          showSubResults: true,
+          translations: { placeholder: "Rechercher" }
+        });
+      });
+    </script>
+  </header>
 
   <main class="fiche">
     <div class="fiche-entete">
-      {% if image %}<img src="{{ image }}" alt="{{ titre }}" class="fiche-photo">{% endif %}
+      {% if image %}<img src="{{ image | url }}" alt="{{ titre }}" class="fiche-photo">{% endif %}
       <div>
         <h1>{{ titre }}</h1>
         <p class="fiche-meta">

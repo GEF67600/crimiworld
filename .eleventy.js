@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("escrocs", (api) => api.getFilteredByGlob("content/Escrocs/*.md"));
 
   return {
+    pathPrefix: "/crimiworld/",
     dir: {
       input: "content",
       output: "_site"
