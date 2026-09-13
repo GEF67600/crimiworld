@@ -10,6 +10,8 @@ image:
 pays: Italie
 ---
 
+![Bernardo Provenzano](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bernardo_Provenzano.jpg/250px-Bernardo_Provenzano.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
 ## Identité
 
 Bernardo Provenzano, surnommé "le Tracteur" pour sa méthode expéditive d'élimination des rivaux, est un chef mafieux sicilien qui a dirigé la Cosa Nostra après l'arrestation de Salvatore Riina, en adoptant une stratégie de discrétion opposée à celle de son prédécesseur.
