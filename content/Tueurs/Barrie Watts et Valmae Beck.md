@@ -13,10 +13,10 @@ pays: Australie
 ---
 # Le meurtre sordide de Sian Kingi
 
-|                             ![[sian-kingi.jpg]]                              |     |
+|                             ![Sian Kingi](images/sian-kingi.jpg)                            |     |
 | :--------------------------------------------------------------------------: | --- |
 | Sian Kingi, un ange assassiné le 27 novembre 1987 à Noosa Heads en Australie |     |
-|                             ![[watts&beck.jpg]]                              |     |
+|                             ![Barrie Watts et Valmae Beck](images/watts-beck.jpg)                            |     |
 |    Barrie John Watts et Valmae Fay Beck le couple assassin de Sian Kingi     |     |
 
 ## - Identité
