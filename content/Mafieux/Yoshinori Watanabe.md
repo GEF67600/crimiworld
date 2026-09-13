@@ -10,6 +10,9 @@ image:
 pays: Japon
 ---
 
+![Yoshinori Watanabe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTKfcs_MI1OBEY4ApU3wHmc1f9E3Dd2ejZO9ffwLTDA&s=10)
+
+
 ## Identité
 
 Yoshinori Watanabe est un ancien parrain japonais, cinquième chef (kumicho) du Yamaguchi-gumi, la plus grande organisation criminelle yakuza du Japon, qu'il a dirigée de 1989 à 2005.

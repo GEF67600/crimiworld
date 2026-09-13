@@ -10,6 +10,9 @@ image:
 pays: Italie / USA
 ---
 
+![Lucky Luciano](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYS4bqVhFc5iIUMeN5zXuHgO93YVofyU-bN6GByx2aGg&s)
+
+
 ## Identité
 
 Charles "Lucky" Luciano, né Salvatore Lucania, est un mafieux italo-américain considéré comme le père fondateur de la mafia américaine moderne, à l'origine de l'organisation en "Cinq Familles" à New York dans les années 1930.

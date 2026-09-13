@@ -10,6 +10,9 @@ image:
 pays: Biélorussie / USA
 ---
 
+![Meyer Lansky](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMnYh1G_iCOg6rdCkqVwbbAbnWvu1K1g6wbR-LQi8sg&s=10)
+
+
 ## Identité
 
 Meyer Lansky, surnommé "le comptable de la mafia", est un figure majeure du crime organisé américain du XXe siècle, connu pour avoir structuré les réseaux financiers et de jeux clandestins liés à la pègre, notamment à Cuba et à Las Vegas.

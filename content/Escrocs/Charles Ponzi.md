@@ -10,6 +10,9 @@ image:
 pays: Italie / USA
 ---
 
+![Charles Ponzi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhF8Zv9LDKLuxcevmlaeM3ccNrtk-zGtD1amzj9HMgQ&s=10)
+
+
 ## Identité
 
 Carlo "Charles" Ponzi est un escroc italo-américain qui a donné son nom au système frauduleux dit "Ponzi", consistant à rémunérer les anciens investisseurs avec l'argent des nouveaux, sans activité économique réelle derrière.

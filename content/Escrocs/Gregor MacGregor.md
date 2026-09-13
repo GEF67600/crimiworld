@@ -10,6 +10,9 @@ image:
 pays: Écosse
 ---
 
+![Gregor MacGregor](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/George_Watson_%281767-1837%29_-_Gregor_MacGregor_%281786%E2%80%931845%29%2C_Adventurer_-_PG_2201_-_National_Galleries_of_Scotland.jpg/250px-George_Watson_%281767-1837%29_-_Gregor_MacGregor_%281786%E2%80%931845%29%2C_Adventurer_-_PG_2201_-_National_Galleries_of_Scotland.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+
 ## Identité
 
 Gregor MacGregor est un aventurier écossais du début du XIXe siècle, resté célèbre pour avoir inventé de toutes pièces un pays fictif, la "Poyais", en Amérique centrale, afin d'y attirer investisseurs et colons britanniques.

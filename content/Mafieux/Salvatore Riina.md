@@ -10,6 +10,9 @@ image:
 pays: Italie
 ---
 
+![Salvatore Riina](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Salvatore_Riina.jpg/330px-Salvatore_Riina.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+
+
 ## Identité
 
 Salvatore "Totò" Riina, surnommé "la Bête", est un chef mafieux sicilien, à la tête de la Cosa Nostra durant les années 1980-1990, période marquée par une violence sans précédent contre l'État italien.

@@ -10,6 +10,9 @@ image:
 pays: Autriche-Hongrie / USA
 ---
 
+![Victor Lustig](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0VqItP3xdTbPFDn3du6adLgvBc8x5Nu5iBJnMBvKIxw&s=10)
+
+
 ## Identité
 
 Victor Lustig, surnommé "l'homme qui a vendu la tour Eiffel", est un escroc d'origine austro-hongroise, actif en Europe puis aux États-Unis dans les années 1920-1930, connu pour ses arnaques d'une audace exceptionnelle.

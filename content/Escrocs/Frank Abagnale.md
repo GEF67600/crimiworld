@@ -10,6 +10,9 @@ image:
 pays: USA
 ---
 
+![Frank Abagnale](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Frank_W._Abagnale_in_2008_%28cropped%29.jpg/250px-Frank_W._Abagnale_in_2008_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+
 ## Identité
 
 Frank William Abagnale Jr. est un ancien escroc américain devenu célèbre pour ses multiples usurpations d'identité (pilote de ligne, médecin, avocat) et ses fraudes par chèques durant la fin des années 1960, avant de se reconvertir en consultant en sécurité pour les banques et le FBI.

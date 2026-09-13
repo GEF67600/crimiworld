@@ -10,6 +10,8 @@ image:
 pays: Colombie
 ---
 
+![Pablo Escobar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8vv0iNJiw1FHIxqAMn8Xw1OWYj56YBJ6SSIrWQJGYg&s)
+
 ## Identité
 
 Pablo Emilio Escobar Gaviria est un narcotrafiquant colombien, fondateur et chef du cartel de Medellín, considéré comme l'un des trafiquants de drogue les plus puissants de l'histoire durant les années 1970-1990.

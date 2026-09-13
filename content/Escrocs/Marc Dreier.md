@@ -10,6 +10,9 @@ image:
 pays: USA
 ---
 
+![Marc Dreier](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnr7q-wu2DRfqdqRghgFaJpOaErd_mMUsXKiY_B0&s=10)
+
+
 ## Identité
 
 Marc Dreier est un ancien avocat d'affaires américain, fondateur du cabinet Dreier LLP, condamné pour une fraude par vente de fausses obligations d'entreprise estimée à environ 400 millions de dollars.

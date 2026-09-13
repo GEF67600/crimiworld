@@ -10,6 +10,9 @@ image:
 pays: USA
 ---
 
+![Sam Bankman-Fried](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sam_Bankman-Fried.png/250px-Sam_Bankman-Fried.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+
 ## Identité
 
 Sam Bankman-Fried, souvent désigné par ses initiales "SBF", est un entrepreneur américain, fondateur de la plateforme d'échange de cryptomonnaies FTX, condamné pour fraude massive après l'effondrement de son entreprise fin 2022.

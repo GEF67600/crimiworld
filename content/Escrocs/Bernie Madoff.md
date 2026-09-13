@@ -10,6 +10,9 @@ image:
 pays: USA
 ---
 
+![Bernard Madoff](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/BernardMadoff.jpg/250px-BernardMadoff.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+
 ## Identité
 
 Bernard Lawrence "Bernie" Madoff est un ancien financier américain, auteur de la plus vaste fraude de type "Ponzi" jamais découverte, estimée à environ 65 milliards de dollars sur plusieurs décennies.

@@ -10,6 +10,8 @@ image:
 pays: USA
 ---
 
+![Whitey Bulger](https://img.lemde.fr/2018/10/30/0/0/2000/1423/664/0/75/0/c6212fc_f2a41b9550284a4bb8bf6bf08843c583-f2a41b9550284a4bb8bf6bf08843c583-0.jpg)
+
 ## Identité
 
 James Joseph "Whitey" Bulger Jr. est un chef du crime organisé irlando-américain, à la tête du gang Winter Hill à Boston durant les années 1970-1990, dont l'affaire a révélé une longue collaboration secrète avec le FBI.

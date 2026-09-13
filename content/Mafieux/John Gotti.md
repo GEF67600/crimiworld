@@ -10,6 +10,8 @@ image:
 pays: USA
 ---
 
+![John Gotti](https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Gotti.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
+
 ## Identité
 
 John Joseph Gotti, surnommé "le Parrain Teflon" en raison de ses nombreux acquittements avant sa condamnation finale, est un chef mafieux américain, à la tête de la famille criminelle Gambino à New York de 1985 à sa mort.

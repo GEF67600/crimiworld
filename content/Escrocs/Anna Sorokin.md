@@ -10,6 +10,9 @@ image:
 pays: Russie / Allemagne / USA
 ---
 
+![Anna Sorokin](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AnnaDelvey-byPhilipRomano.jpg/250px-AnnaDelvey-byPhilipRomano.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+
 ## Identité
 
 Anna Sorokin, connue sous le pseudonyme "Anna Delvey", est une escroc d'origine russe ayant grandi en Allemagne, qui s'est fait passer pour une riche héritière allemande à New York entre 2013 et 2017.

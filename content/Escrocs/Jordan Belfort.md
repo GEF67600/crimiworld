@@ -10,6 +10,9 @@ image:
 pays: USA
 ---
 
+![Jordan Belfort](https://upload.wikimedia.org/wikipedia/commons/8/89/Jordan_Belfort_-_May_30%2C_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original)
+
+
 ## Identité
 
 Jordan Belfort, surnommé "le loup de Wall Street", est un ancien courtier américain condamné pour fraude boursière et blanchiment d'argent, à la tête de la société Stratton Oakmont dans les années 1990.
