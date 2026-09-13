@@ -150,11 +150,13 @@ body {
   font-size: 1.1rem;
 }
 
+  /* Taille de la barre de recherche */
 #search {
   max-width: 350px;
   margin-left: auto;
 }
 
+  /* Taille maximum des images */
 .fiche-contenu img {
   max-width: 300px;
   height: auto;
@@ -162,3 +164,17 @@ body {
   display: block;
   margin: 1rem 0;
 }
+
+  /* Pied de page */
+.site-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-top: 3rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-dim);
+  font-family: Arial, sans-serif;
+  font-size: 0.85rem;
+}
+
+
+
