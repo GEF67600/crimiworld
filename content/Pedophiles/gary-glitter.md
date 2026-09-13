@@ -13,7 +13,7 @@ statut: condamné, en détention
 pays: Royaume-Uni / Vietnam
 ---
 
-! [Garry Glitter]({{ '/images/gary-glitter.jpg'| url }}) 
+![Garry Glitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LTKfHH4PPykYTaNYTf404q2f6lVspq6b1UHZKMGojg&s=10)
 
 ## Identité
 
