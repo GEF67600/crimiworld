@@ -10,6 +10,8 @@ image:
 pays: USA
 ---
 
+![Al Capone](https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/250px-Al_Capone_in_1930_%28manually_dusted%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
+
 ## Identité
 
 Alphonse Gabriel "Al" Capone est un chef mafieux américain d'origine italienne, à la tête du crime organisé à Chicago durant la période de la Prohibition, dans les années 1920.
