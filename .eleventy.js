@@ -5,7 +5,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tueurs", (api) => api.getFilteredByGlob("content/Tueurs/*.md"));
   eleventyConfig.addCollection("mafieux", (api) => api.getFilteredByGlob("content/Mafieux/*.md"));
   eleventyConfig.addCollection("escrocs", (api) => api.getFilteredByGlob("content/Escrocs/*.md"));
+  eleventyConfig.addCollection("pedophiles", (api) => api.getFilteredByGlob("content/Pedophiles/*.md"));
 
+  
   return {
     pathPrefix: "/crimiworld/",
     dir: {
