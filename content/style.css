@@ -154,3 +154,11 @@ body {
   max-width: 350px;
   margin-left: auto;
 }
+
+.fiche-contenu img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 4px;
+  display: block;
+  margin: 1rem 0;
+}
