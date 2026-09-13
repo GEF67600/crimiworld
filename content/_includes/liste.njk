@@ -19,7 +19,11 @@
 <script src="pagefind/pagefind-ui.js"></script>
 <script>
   window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({ element: "#search", showSubResults: true });
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      translations: { placeholder: "Rechercher" }
+    });
   });
 </script>
 </header>

@@ -149,3 +149,8 @@ body {
   text-decoration: none;
   font-size: 1.1rem;
 }
+
+#search {
+  max-width: 200px;
+  margin-left: auto;
+}
