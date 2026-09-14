@@ -6,7 +6,7 @@ tags: [terrorisme, al-qaeda, Pakistan, affaire-en-cours]
 date_naissance: 1964-03-01
 date_deces: 
 statut: en détention, procès militaire toujours en cours
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1XKdQt2liMxXQcshkuKDhalSFtS9v0g9LNYiH-ld7w&s
 pays: Pakistan / Koweït
 ---
 

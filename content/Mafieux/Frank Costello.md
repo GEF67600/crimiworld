@@ -6,7 +6,7 @@ tags: [mafia, USA, affaire-resolue]
 date_naissance: 1891-01-26
 date_deces: 1973-02-18
 statut: décédé (a purgé une peine pour évasion fiscale)
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Frank_Costello_-_Kefauver_Committee_%28cropped%29.jpg/500px-Frank_Costello_-_Kefauver_Committee_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Italie / USA
 ---
 

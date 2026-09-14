@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1943-04-06
 date_deces: 2017-12-10
 statut: décédé en détention
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/a/a8/Max_Clifford_2014.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original
 pays: Royaume-Uni
 ---
 

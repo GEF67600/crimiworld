@@ -6,12 +6,9 @@ tags: [yakuza, Japon, affaire-resolue]
 date_naissance: 1941-01-01
 date_deces: 
 statut: retraité du crime organisé
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTKfcs_MI1OBEY4ApU3wHmc1f9E3Dd2ejZO9ffwLTDA&s=10
 pays: Japon
 ---
-
-![Yoshinori Watanabe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTKfcs_MI1OBEY4ApU3wHmc1f9E3Dd2ejZO9ffwLTDA&s=10)
-
 
 ## Identité
 

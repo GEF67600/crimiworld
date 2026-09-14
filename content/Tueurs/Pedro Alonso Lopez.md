@@ -6,7 +6,7 @@ tags: [tueur-en-serie, Colombie, Equateur, Perou, affaire-resolue]
 date_naissance: 1948-10-08
 date_deces: 
 statut: condamné, statut actuel incertain après libération
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9cXyaXihHFupUtxEx8HrHWbLnJbqdsBwbka26hjol7Q&s=10
 pays: Colombie / Équateur / Pérou
 ---
 

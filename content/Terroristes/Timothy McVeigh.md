@@ -6,7 +6,7 @@ tags: [terrorisme, extreme-droite, USA, affaire-resolue]
 date_naissance: 1968-04-23
 date_deces: 2001-06-11
 statut: exécuté
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIpFeFcj-nF3nQQxFXbVUC6xdqQ-Ht6Q7d3imzQFeXQ&s
 pays: USA
 ---
 

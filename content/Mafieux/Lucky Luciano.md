@@ -6,12 +6,9 @@ tags: [mafia, Italie, USA, affaire-resolue]
 date_naissance: 1897-11-24
 date_deces: 1962-01-26
 statut: décédé (expulsé vers l'Italie après sa peine)
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/LuckyLucianoSmaller_%28hq%29.jpeg/500px-LuckyLucianoSmaller_%28hq%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Italie / USA
 ---
-
-![Lucky Luciano](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYS4bqVhFc5iIUMeN5zXuHgO93YVofyU-bN6GByx2aGg&s)
-
 
 ## Identité
 

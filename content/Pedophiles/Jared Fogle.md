@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, pedopornographie, USA, affaire-resolue]
 date_naissance: 1977-08-23
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCK9FGlb4eNlVJE0lGoJt3q6JNrK6LX30AMpupeH0rXg&s=10
 pays: USA
 ---
 

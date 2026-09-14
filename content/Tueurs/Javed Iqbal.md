@@ -6,7 +6,7 @@ tags: [tueur-en-serie, Pakistan, affaire-resolue]
 date_naissance: 1956-10-08
 date_deces: 2001-10-08
 statut: décédé en détention avant exécution
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7gvRjm2XwFZy9_Hl1ls1p6CO2e8HX82mrllRt_uFUw&s
 pays: Pakistan
 ---
 

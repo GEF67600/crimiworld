@@ -6,11 +6,9 @@ tags: [narcotrafic, Colombie, affaire-resolue]
 date_naissance: 1949-12-01
 date_deces: 1993-12-02
 statut: décédé (tué lors d'une opération policière)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8vv0iNJiw1FHIxqAMn8Xw1OWYj56YBJ6SSIrWQJGYg&s
 pays: Colombie
 ---
-
-![Pablo Escobar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8vv0iNJiw1FHIxqAMn8Xw1OWYj56YBJ6SSIrWQJGYg&s)
 
 ## Identité
 

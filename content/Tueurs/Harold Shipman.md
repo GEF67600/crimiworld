@@ -6,10 +6,10 @@ tags: [tueur-en-serie, Royaume-Uni, medecin, affaire-resolue]
 date_naissance: 1946-01-14
 date_deces: 2004-01-13
 statut: décédé en détention (suicide)
-image: 
+image: https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/130B2/production/_96520087_000186508.jpg
 pays: Royaume-Uni
 ---
-![Harold Shipman](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/130B2/production/_96520087_000186508.jpg)
+
 ## Identité
 
 Harold Frederick Shipman est un médecin généraliste britannique reconnu coupable du meurtre de 15 de ses patients, bien qu'une enquête officielle ultérieure ait estimé son nombre réel de victimes à plus de 200, ce qui en ferait l'un des tueurs en série les plus prolifiques de l'histoire.

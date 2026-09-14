@@ -6,7 +6,7 @@ tags: [triade, Macao, Chine, affaire-resolue]
 date_naissance: 1955-05-03
 date_deces: 
 statut: condamné, peine purgée, sanctionné par les USA
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUo00jOBkNiTeGkbNsQGDCjvh6TxBqLJ2px6wuYbMyIg&s=10
 pays: Macao / Chine
 ---
 

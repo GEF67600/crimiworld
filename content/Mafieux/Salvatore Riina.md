@@ -6,12 +6,9 @@ tags: [mafia, cosa-nostra, Italie, affaire-resolue]
 date_naissance: 1930-11-16
 date_deces: 2017-11-17
 statut: décédé en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Salvatore_Riina.jpg/330px-Salvatore_Riina.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 pays: Italie
 ---
-
-![Salvatore Riina](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Salvatore_Riina.jpg/330px-Salvatore_Riina.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
-
 
 ## Identité
 

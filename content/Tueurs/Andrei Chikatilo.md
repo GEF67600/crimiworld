@@ -6,10 +6,10 @@ tags: [tueur-en-serie, URSS, Russie, affaire-resolue]
 date_naissance: 1936-10-16
 date_deces: 1994-02-14
 statut: exécuté
-image: 
+image: https://www.telegraph.co.uk/multimedia/archive/02265/Andrei-Chikatilo_2265484b.jpg
 pays: URSS / Russie
 ---
-![Andrei Chikatilo](https://www.telegraph.co.uk/multimedia/archive/02265/Andrei-Chikatilo_2265484b.jpg)
+
 ## Identité
 
 Andrei Romanovitch Chikatilo, surnommé "le boucher de Rostov", est un tueur en série soviétique puis russe reconnu coupable du meurtre de 52 femmes et enfants dans la région de Rostov entre 1978 et 1990, l'un des bilans les plus lourds recensés au XXe siècle.

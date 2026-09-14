@@ -4,7 +4,7 @@ titre: Warren Jeffs
 categorie: Pedophiles
 tags: [abus-sexuels-sur-mineurs, secte, USA, affaire-resolue]
 date_naissance: 1955-12-03
-date_deces: 
+date_deces: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6qFWzRL_-Ca_YAp8gZdOhMXR08d5GwlSqVrx0lUXryQ&s=10
 statut: condamné, en détention à vie
 image: 
 pays: USA

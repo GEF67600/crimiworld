@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, musique, Royaume-Uni, affaire-resolue]
 date_naissance: 1977-01-04
 date_deces: 2023-10-11
 statut: décédé en détention (tué par des codétenus)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2Kfzpf-ydr49Fvg1WhbWbvHTeCJdeEyQDNj7QqV79Q&s=10
 pays: Royaume-Uni
 ---
 

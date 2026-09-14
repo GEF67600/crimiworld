@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, enlevement, USA, affaire-resolue]
 date_naissance: 1943-01-17
 date_deces: 2021-01-30
 statut: décédé en détention
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/b/b0/Franklin_Delano_Floyd.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled
 pays: USA
 ---
 

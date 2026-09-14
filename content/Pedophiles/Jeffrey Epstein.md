@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, traite-humaine, USA, affaire-resolue]
 date_naissance: 1953-01-20
 date_deces: 2019-08-10
 statut: décédé en détention avant jugement (suicide)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AQDff1HBW-WXAUSMsVgYHRgNMWXryWW2XrH2Rg2mQw&s
 pays: USA
 ---
 

@@ -6,7 +6,7 @@ tags: [terrorisme, etat-islamique, France, Belgique, affaire-resolue]
 date_naissance: 1989-09-15
 date_deces: 
 statut: condamné, en détention à vie
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0l2e9gWAh-E068sG_3BKb5e9JbJj-xDJ94OpFWehLiw&s=10
 pays: France / Belgique
 ---
 

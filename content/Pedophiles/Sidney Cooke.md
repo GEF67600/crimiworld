@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1927-01-01
 date_deces: 
 statut: condamné, statut actuel incertain après libération
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFT3Ybz7XWmP-k4lG4DxPs9Lgmna2IIoQy9kfIfcxQIg&s=10
 pays: Royaume-Uni
 ---
 

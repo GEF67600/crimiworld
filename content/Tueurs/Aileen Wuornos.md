@@ -6,14 +6,9 @@ tags: [tueuse-en-serie, USA, affaire-resolue]
 date_naissance: 1956-02-29
 date_deces: 2002-10-09
 statut: exécutée
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmzB38u80MQP_SR3cE3X4uxkABDp13O4GPM1w-nha1Q&s=10
 pays: USA
 ---
-## La tueuse de l'autoroute
-
-| ![Aileen Wuornos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdM8mHKUyUYYu0HCeSt8O1Dd8N6bYqvFv_KvnOHzMrQ&s)![Aileen Wuornos](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbvGPuXF3jzn1Ds6u-Z7_rMuOqEnePx-XJDbYjjwHnw&s=10) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                         ![Aileen Wuornos](https://compacthistories.com/wp-content/uploads/2025/11/LS-Aileen-Wuornos.jpg)                                                                          |
 
 ## Identité
 

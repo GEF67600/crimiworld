@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, sport, medecin, USA, affaire-resolue]
 date_naissance: 1963-08-16
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3QcIPQusgoPs7BSzv31UVG-ofLpcZayjDc8tlyNoNg&s=10
 pays: USA
 ---
 

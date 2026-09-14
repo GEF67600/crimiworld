@@ -6,10 +6,10 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1945-03-09
 date_deces: 
 statut: condamné, incarcéré à vie
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTiRofveoxJ64QzFqXpfjizGg0o1x3FrtuAh6f8WfWrw&s=10
 pays: USA
 ---
-![Denis Rader](https://orion-uploads.openroadmedia.com/md_c7106e1a1d59-btk-killer-dennis-rader_featured.jpg)
+
 ## Identité
 
 Dennis Lynn Rader, connu sous le surnom "BTK" (Bind, Torture, Kill — "Ligoter, Torturer, Tuer"), est un tueur en série américain reconnu coupable de dix meurtres commis dans la région de Wichita, au Kansas, entre 1974 et 1991.

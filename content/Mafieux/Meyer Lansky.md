@@ -6,12 +6,9 @@ tags: [crime-organise, USA, affaire-resolue]
 date_naissance: 1902-07-04
 date_deces: 1983-01-15
 statut: décédé (jamais condamné pour ses activités criminelles majeures)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMnYh1G_iCOg6rdCkqVwbbAbnWvu1K1g6wbR-LQi8sg&s=10
 pays: Biélorussie / USA
 ---
-
-![Meyer Lansky](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMnYh1G_iCOg6rdCkqVwbbAbnWvu1K1g6wbR-LQi8sg&s=10)
-
 
 ## Identité
 

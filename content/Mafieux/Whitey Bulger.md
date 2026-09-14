@@ -6,11 +6,9 @@ tags: [crime-organise, USA, affaire-resolue]
 date_naissance: 1929-09-03
 date_deces: 2018-10-30
 statut: décédé en détention (tué par des codétenus)
-image: 
+image: https://img.lemde.fr/2018/10/30/0/0/2000/1423/664/0/75/0/c6212fc_f2a41b9550284a4bb8bf6bf08843c583-f2a41b9550284a4bb8bf6bf08843c583-0.jpg
 pays: USA
 ---
-
-![Whitey Bulger](https://img.lemde.fr/2018/10/30/0/0/2000/1423/664/0/75/0/c6212fc_f2a41b9550284a4bb8bf6bf08843c583-f2a41b9550284a4bb8bf6bf08843c583-0.jpg)
 
 ## Identité
 

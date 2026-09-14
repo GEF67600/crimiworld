@@ -6,7 +6,7 @@ tags: [yakuza, Japon, affaire-resolue]
 date_naissance: 1913-03-28
 date_deces: 1981-07-23
 statut: décédé (jamais lourdement condamné)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHz86eZisH8qpiWNKk2K7QNuoPmOm2yaJWzTEkE1waw&s=10
 pays: Japon
 ---
 

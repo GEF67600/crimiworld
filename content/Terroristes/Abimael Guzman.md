@@ -6,7 +6,7 @@ tags: [terrorisme, extreme-gauche, Perou, affaire-resolue]
 date_naissance: 1934-12-03
 date_deces: 2021-09-11
 statut: décédé en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqbeh7tkRlF_HCqn8IiC1S1HCN5YtDNHokSANDBngnGA&s=10
 pays: Pérou
 ---
 

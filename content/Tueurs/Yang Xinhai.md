@@ -6,7 +6,7 @@ tags: [tueur-en-serie, Chine, affaire-resolue]
 date_naissance: 1968-07-17
 date_deces: 2004-02-14
 statut: exécuté
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaI32OCUmWRv_3pCoG45kG7E-m0zdgof9y-AGAWEN_zA&s=10
 pays: Chine
 ---
 

@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, cinema, France, USA, Pologne, affaire-en-cours]
 date_naissance: 1933-08-18
 date_deces: 
 statut: en fuite depuis 1978, jamais réincarcéré
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Roman_Polanski_Cannes_2013.jpg/500px-Roman_Polanski_Cannes_2013.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Pologne / France
 ---
 

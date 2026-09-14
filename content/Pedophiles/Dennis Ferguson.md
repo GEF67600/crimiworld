@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, Australie, affaire-resolue]
 date_naissance: 1945-01-01
 date_deces: 2012-08-23
 statut: décédé (peine purgée, sous surveillance à sa mort)
-image: 
+image: https://upload.wikimedia.org/wikipedia/en/c/c4/Dennis-Ferguson.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled
 pays: Australie
 ---
 

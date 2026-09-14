@@ -6,7 +6,7 @@ tags: [narcotrafic, Mexique, affaire-resolue]
 date_naissance: 1957-04-04
 date_deces: 
 statut: condamné, en détention à vie aux USA
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg/500px-Booking_photo_of_Joaquin_%E2%80%9CEl_Chapo%E2%80%9C_Guzman_%28front%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Mexique
 ---
 

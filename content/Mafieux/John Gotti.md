@@ -6,11 +6,9 @@ tags: [mafia, USA, affaire-resolue]
 date_naissance: 1940-10-27
 date_deces: 2002-06-10
 statut: décédé en détention
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Gotti.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 pays: USA
 ---
-
-![John Gotti](https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Gotti.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled)
 
 ## Identité
 

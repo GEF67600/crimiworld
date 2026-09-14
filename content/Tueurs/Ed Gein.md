@@ -6,10 +6,10 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1906-08-27
 date_deces: 1984-07-26
 statut: décédé en hôpital psychiatrique
-image: 
+image: https://www.peta.org/wp-content/uploads/2025/10/Ed-Gein-1.jpeg
 pays: USA
 ---
-![Ed Gein](https://www.peta.org/wp-content/uploads/2025/10/Ed-Gein-1.jpeg)
+
 ## Identité
 
 Edward Theodore Gein, surnommé "le boucher de Plainfield", est un criminel américain reconnu coupable de meurtre et connu pour la profanation de tombes dans le Wisconsin des années 1940 à 1957. Son cas a directement inspiré plusieurs personnages de fiction (Psychose, Massacre à la tronçonneuse, Le Silence des agneaux).

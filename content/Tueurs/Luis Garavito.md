@@ -6,7 +6,7 @@ tags: [tueur-en-serie, Colombie, affaire-resolue]
 date_naissance: 1957-01-25
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThLQBU5clUuBR8MR69BwyTS9kAPcJ6uZ_OT21Uuxx8gQ&s=10
 pays: Colombie
 ---
 

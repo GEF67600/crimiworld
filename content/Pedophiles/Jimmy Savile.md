@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1926-10-31
 date_deces: 2011-10-29
 statut: décédé avant toute condamnation (faits révélés post-mortem)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2iJxPa8xiYdb2XzL9BJjNlHSVR2Yo_iP1H04FUBYdw&s=10
 pays: Royaume-Uni
 ---
 

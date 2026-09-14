@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, traite-humaine, musique, USA, affaire-resolue]
 date_naissance: 1967-01-08
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJct0ujPGnuvh4JYhKL8bp979FrrxE1Myz8bWsssfBA&s=10
 pays: USA
 ---
 

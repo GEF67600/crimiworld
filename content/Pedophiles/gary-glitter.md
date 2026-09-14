@@ -10,6 +10,7 @@ tags:
 date_naissance: 1944-05-08
 date_deces:
 statut: condamné, en détention
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LTKfHH4PPykYTaNYTf404q2f6lVspq6b1UHZKMGojg&s=10
 pays: Royaume-Uni / Vietnam
 ---
 

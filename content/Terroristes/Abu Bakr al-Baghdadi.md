@@ -6,7 +6,7 @@ tags: [terrorisme, etat-islamique, Irak, affaire-resolue]
 date_naissance: 1971-07-28
 date_deces: 2019-10-27
 statut: décédé (tué lors d'une opération militaire américaine)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdSNmnl8XY_oZosI94qeRF1k4EMmrCZDcDhOAdCpAM5w&s=10
 pays: Irak
 ---
 

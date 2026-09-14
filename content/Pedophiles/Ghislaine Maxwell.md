@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, traite-humaine, Royaume-Uni, USA, affaire-resol
 date_naissance: 1961-12-25
 date_deces: 
 statut: condamnée, en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ghislaine_Maxwell_MDC_mug_shot.webp/500px-Ghislaine_Maxwell_MDC_mug_shot.webp?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Royaume-Uni / USA
 ---
 

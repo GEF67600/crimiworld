@@ -6,7 +6,7 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1936-08-23
 date_deces: 2001-03-13
 statut: décédé en détention
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/b/b4/Henry_Lee_Lucas_arrives_at_Texas_courthouse_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 pays: USA
 ---
 

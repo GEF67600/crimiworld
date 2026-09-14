@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, musique, Royaume-Uni, affaire-resolue]
 date_naissance: 1944-12-06
 date_deces: 
 statut: condamné, peine purgée
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/1/10/Jonathan_King_in_2007_cr.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 pays: Royaume-Uni
 ---
 

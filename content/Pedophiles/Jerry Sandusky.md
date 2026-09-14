@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, sport, USA, affaire-resolue]
 date_naissance: 1944-01-26
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://upload.wikimedia.org/wikipedia/en/2/2e/Jerry_Sandusky_Mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled
 pays: USA
 ---
 

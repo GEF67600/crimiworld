@@ -6,10 +6,10 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1942-03-17
 date_deces: 1994-05-10
 statut: exécuté
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfleuguiYdcVylg6ZxpP0rIs-__kodQvPVHapKdwp-A&s=10
 pays: USA
 ---
-![John Wayne Gacy](https://www.leparisien.fr/resizer/CCX8RKBr8PX9akTOflLQYBfonzg=/1134x708/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/AHJFD6IQWAAE4NOTWNCTN2ALQU.jpg)
+
 ## Identité
 
 John Wayne Gacy, surnommé "le clown tueur" (il se produisait parfois déguisé en clown lors d'événements caritatifs), est un tueur en série américain reconnu coupable du viol et du meurtre d'au moins 33 jeunes hommes et adolescents entre 1972 et 1978 dans l'Illinois.

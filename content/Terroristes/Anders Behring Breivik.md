@@ -6,7 +6,7 @@ tags: [terrorisme, extreme-droite, Norvege, affaire-resolue]
 date_naissance: 1979-02-13
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNKjZ-b-sx4a6qVjWIz0zCFKMEYqCFOUTqH0-xX9lVQ&s=10
 pays: Norvège
 ---
 

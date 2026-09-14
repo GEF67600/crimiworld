@@ -6,11 +6,9 @@ tags: [mafia, cosa-nostra, Italie, affaire-resolue]
 date_naissance: 1933-01-31
 date_deces: 2016-07-13
 statut: décédé en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bernardo_Provenzano.jpg/250px-Bernardo_Provenzano.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Italie
 ---
-
-![Bernardo Provenzano](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bernardo_Provenzano.jpg/250px-Bernardo_Provenzano.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
 ## Identité
 

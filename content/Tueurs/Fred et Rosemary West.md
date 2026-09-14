@@ -9,10 +9,10 @@ tags:
 date_naissance: 1941-09-29
 date_deces: 1995-01-01
 statut: décédé en détention (suicide, avant jugement)
-image:
+image:https://media.cnn.com/api/v1/images/stellar/prod/210518101414-fred-west-rose-west-split-restricted.jpg?q=w_1600,h_900,x_0,y_0,c_fill/w_1093
 pays: Royaume-Uni
 ---
-![Fred West](https://media.cnn.com/api/v1/images/stellar/prod/210518101414-fred-west-rose-west-split-restricted.jpg?q=w_1600,h_900,x_0,y_0,c_fill/w_1093)
+
 ## Identité
 
 Frederick Walter Stephen West, avec son épouse Rosemary West, est un tueur en série britannique impliqué dans le meurtre d'au moins 12 jeunes femmes, dont plusieurs membres de sa propre famille, à Gloucester entre les années 1960 et 1980.

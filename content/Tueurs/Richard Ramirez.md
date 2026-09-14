@@ -6,10 +6,10 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1960-02-29
 date_deces: 2013-06-07
 statut: décédé en détention (maladie, dans le couloir de la mort)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1ky2GTyq5a-CYbvrWK_PwX7da7RJGxGi_RU7GTRB_w&s=10
 pays: USA
 ---
-![Richard Ramirez](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTKpGkXawMRS7AJ0w5u3aFjyuHvO5jzL0iNS31Pxm9tA&s=10) ![Richard Ramirez](https://www.cdcr.ca.gov/news/wp-content/uploads/sites/180/2026/05/Ramirez-C24042.png)
+
 ## Identité
 
 Richard Ramirez, surnommé "le Night Stalker", est un tueur en série américain reconnu coupable de 13 meurtres ainsi que de multiples viols et cambriolages commis en Californie entre 1984 et 1985.

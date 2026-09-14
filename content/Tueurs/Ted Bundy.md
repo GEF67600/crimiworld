@@ -6,10 +6,10 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1946-11-24
 date_deces: 1989-01-24
 statut: exécuté
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Q0OSHPGaN67GYSFfKQF9cCGy3lz1LmHzHlDS1QZhKA&s
 pays: USA
 ---
-![Ted Bundy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ7PJRNKBpstoZSLuMzRqHIlwbKz1AVs5uPp01u0w8jQ&s=10)
+
 ## Identité
 
 Theodore Robert Bundy, dit Ted Bundy, est un tueur en série américain reconnu coupable de plusieurs meurtres et suspecté d'en avoir commis des dizaines d'autres, principalement dans le nord-ouest et le sud des États-Unis entre 1974 et 1978.

@@ -6,10 +6,10 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1960-05-21
 date_deces: 1994-11-28
 statut: décédé en détention (tué par un codétenu)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQg3A9ulbccoR-hQU7tqDMUmHVcSnAcxYT-mGSmtX9Q&s=10
 pays: USA
 ---
-![Jeffrey Dahmer](https://www.programme-tv.net/imgre/fit/~1~tel~2022~09~21~471ba3dd-fc4b-4dae-a638-8b6c30f76ed3.jpeg/720x405/crop-from/top/quality/80/focus-point/2751,1257/jeffrey-dahmer-les-confidences-d-un-serial-killer-13-octobre.jpg) ![Jeffrey Dahmer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzwiLRjXKIN9fezKOAHSSl_Whrvv6Ip2kAs98LNOqnQ&s=10)
+
 ## Identité
 
 Jeffrey Lionel Dahmer, surnommé "le boucher de Milwaukee", est un tueur en série américain reconnu coupable du meurtre de 17 jeunes hommes et garçons entre 1978 et 1991, principalement dans le Wisconsin.

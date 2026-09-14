@@ -6,7 +6,7 @@ tags: [camorra, Italie, affaire-resolue]
 date_naissance: 1941-11-04
 date_deces: 2021-02-17
 statut: décédé en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOxT3Qn_AIUVNrGdjIQYTBLlgub79cSCHpSZRDAJa6w&s=10
 pays: Italie
 ---
 

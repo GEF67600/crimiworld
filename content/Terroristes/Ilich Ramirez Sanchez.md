@@ -6,7 +6,7 @@ tags: [terrorisme, extreme-gauche, Venezuela, France, affaire-resolue]
 date_naissance: 1949-10-12
 date_deces: 
 statut: condamné, en détention à vie
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-T5KbPSARrBH57S83tu95CjeeThwsI_Ur_O8XnjBiQ&s
 pays: Venezuela
 ---
 

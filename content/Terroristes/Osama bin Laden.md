@@ -6,7 +6,7 @@ tags: [terrorisme, al-qaeda, Arabie-Saoudite, affaire-resolue]
 date_naissance: 1957-03-10
 date_deces: 2011-05-02
 statut: décédé (tué lors d'une opération militaire américaine)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXihcZA2vJ0sCaxTZIXcU2pVG07O_MJ1d1f3JcJgFRGA&s=10
 pays: Arabie Saoudite
 ---
 

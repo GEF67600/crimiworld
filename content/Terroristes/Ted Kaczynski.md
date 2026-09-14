@@ -6,7 +6,7 @@ tags: [terrorisme, USA, affaire-resolue]
 date_naissance: 1942-05-22
 date_deces: 2023-06-10
 statut: décédé en détention (suicide)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZgITPmN02VPF_e0qCWojajDDSCbyXEFjPr6bXDwEpvw&s=10
 pays: USA
 ---
 

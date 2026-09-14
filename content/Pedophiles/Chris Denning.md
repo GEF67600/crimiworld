@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, radio, Royaume-Uni, affaire-resolue]
 date_naissance: 1941-08-26
 date_deces: 
 statut: condamné, peine purgée
-image: 
+image: https://i2-prod.essexlive.news/incoming/article8809497.ece/ALTERNATES/s1200c/1_chrisdenning.jpg
 pays: Royaume-Uni
 ---
 

@@ -6,7 +6,7 @@ tags: [narcotrafic, Colombie, USA, affaire-resolue]
 date_naissance: 1943-02-15
 date_deces: 2012-09-03
 statut: décédée (abattue après sa libération)
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Griselda_Blanco_Medellin.jpg/500px-Griselda_Blanco_Medellin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Colombie
 ---
 

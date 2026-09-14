@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, enlevement, Belgique, affaire-resolue]
 date_naissance: 1956-11-06
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_IDT1kZlCTWBN10T967N2rUZq5iq8ZURBRKlv3NhHw&s=10
 pays: Belgique
 ---
 

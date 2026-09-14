@@ -6,10 +6,10 @@ tags: [tueur-en-serie, Royaume-Uni, affaire-resolue]
 date_naissance: 1946-06-02
 date_deces: 2020-11-13
 statut: décédé en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOodTSmPXy3hD31ICuJigio2P11LYBUmwfQj992kj-w&s=10
 pays: Royaume-Uni
 ---
-![Peter Sutcliffe](https://www.telegraph.co.uk/multimedia/archive/01774/Peter-Sutcliffe_1774624c.jpg)
+
 ## Identité
 
 Peter William Sutcliffe, surnommé "l'Éventreur du Yorkshire" (Yorkshire Ripper), est un tueur en série britannique reconnu coupable du meurtre de 13 femmes et de tentatives de meurtre sur plusieurs autres, dans le nord de l'Angleterre entre 1975 et 1980.

@@ -6,7 +6,7 @@ tags: [tueur-en-serie, Afrique-du-Sud, affaire-resolue]
 date_naissance: 1964-01-17
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFfZyoAGR-LDZb2yeW0V9zrhFO3yM0TSIU_nCAeqnQQ&s=10
 pays: Afrique du Sud
 ---
 

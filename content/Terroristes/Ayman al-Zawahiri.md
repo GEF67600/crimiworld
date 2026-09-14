@@ -6,7 +6,7 @@ tags: [terrorisme, al-qaeda, Egypte, affaire-resolue]
 date_naissance: 1951-06-19
 date_deces: 2022-07-31
 statut: décédé (tué lors d'une frappe américaine)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hxwJVlTZshKc7fXxRb4Q8GgxpzfBlgJ5uv604Jppzw&s=10
 pays: Égypte
 ---
 

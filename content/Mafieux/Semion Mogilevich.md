@@ -6,7 +6,7 @@ tags: [mafia-russe, Ukraine, Russie, affaire-en-cours]
 date_naissance: 1946-06-30
 date_deces: 
 statut: recherché, jamais arrêté (sauf brève détention en Russie)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwgaAaQPcmnt6dnoEEZwFyI1z56TOe9lA7n6ynAWIYzw&s=10
 pays: Ukraine / Russie
 ---
 

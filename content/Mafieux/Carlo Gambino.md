@@ -6,7 +6,7 @@ tags: [mafia, USA, affaire-resolue]
 date_naissance: 1902-08-24
 date_deces: 1976-10-15
 statut: décédé (jamais condamné pour ses activités criminelles majeures)
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Carlo_Gambino.jpg/500px-Carlo_Gambino.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Italie / USA
 ---
 

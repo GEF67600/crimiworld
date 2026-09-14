@@ -6,7 +6,7 @@ tags: [mafia, USA, affaire-resolue]
 date_naissance: 1905-01-18
 date_deces: 2002-05-11
 statut: décédé (jamais condamné pour ses activités criminelles majeures)
-image: 
+image: https://upload.wikimedia.org/wikipedia/commons/9/94/Joseph_Bonanno_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled
 pays: Italie / USA
 ---
 

@@ -6,7 +6,7 @@ tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1929-12-04
 date_deces: 2022-08-24
 statut: condamné, peine purgée
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9YHbuCfO8VCpWF8Jr3JcIp27u2xlsvQL80p7mclt7w&s=10
 pays: Royaume-Uni
 ---
 
