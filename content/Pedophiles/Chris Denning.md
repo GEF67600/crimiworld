@@ -8,6 +8,7 @@ date_deces:
 statut: condamné, peine purgée
 image: https://i2-prod.essexlive.news/incoming/article8809497.ece/ALTERNATES/s1200c/1_chrisdenning.jpg
 pays: Royaume-Uni
+type: Pédophile
 ---
 
 ## Identité
