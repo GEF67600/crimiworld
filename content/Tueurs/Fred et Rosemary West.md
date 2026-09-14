@@ -9,7 +9,7 @@ tags:
 date_naissance: 1941-09-29
 date_deces: 1995-01-01
 statut: décédé en détention (suicide, avant jugement)
-image:https://media.cnn.com/api/v1/images/stellar/prod/210518101414-fred-west-rose-west-split-restricted.jpg?q=w_1600,h_900,x_0,y_0,c_fill/w_1093
+image: https://media.cnn.com/api/v1/images/stellar/prod/210518101414-fred-west-rose-west-split-restricted.jpg?q=w_1600,h_900,x_0,y_0,c_fill/w_1093
 pays: Royaume-Uni
 ---
 
