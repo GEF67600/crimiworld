@@ -9,7 +9,7 @@ date_deces: 2013-08-27
 statut: décédé en détention
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiThwJ0cZt2PzrixgDH8gjAQ4tZWc4F0i65slUC5DLfw&s=10
 pays: Ukraine
-type: Tueur en série (52)
+type: Tueur en série
 ---
 
 ## Identité
