@@ -2,13 +2,13 @@
 layout: base.njk
 titre: David Berkowitz
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1953-06-01
 date_deces: 
 statut: condamné, en détention à vie
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLEFHbS94ZTBapprUkHDwnV-yL1QGA0-CoG5tHaKv0Lw&s=10
 pays: USA
-type: Tueur en série
 ---
 
 ## Identité

@@ -2,13 +2,13 @@
 layout: base.njk
 titre: Dennis Rader
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1945-03-09
 date_deces: 
 statut: condamné, incarcéré à vie
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTiRofveoxJ64QzFqXpfjizGg0o1x3FrtuAh6f8WfWrw&s=10
 pays: USA
-type: Tueur en série
 ---
 
 ## Identité

@@ -2,13 +2,13 @@
 layout: base.njk
 titre: Dennis Nilsen
 categorie: Tueurs
+type: tueur en série
 tags: [tueur-en-serie, Royaume-Uni, affaire-resolue]
 date_naissance: 1945-11-23
 date_deces: 2018-05-12
 statut: décédé en détention
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3UlDzQ6vub9HfF9fGNPUibs_7yQ-qTLT92blamDs4xA&s
 pays: Royaume-Uni
-type: tueur en série
 ---
 
 ## Identité

@@ -2,13 +2,14 @@
 layout: base.njk
 titre: Charles Manson
 categorie: Tueurs
+type: Criminel et Gourou
 tags: [tueur-en-serie, secte, USA, affaire-resolue]
 date_naissance: 1934-11-12
 date_deces: 2017-11-19
 statut: décédé en détention
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-ho-syrT4_ourmvwLsq6ztNDzgKvj18jZ7zoo2uCfg&s
 pays: USA
-type: Criminel et Gourou
+
 ---
 
 ## Identité
