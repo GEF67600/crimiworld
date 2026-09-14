@@ -9,7 +9,7 @@ date_deces: 1936-01-16
 statut: exécuté
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LbMMe2DNIo9eMaF8Gd_wKDp78bs92QcEkRofRLLXdw&s=10
 pays: USA
-type: Tueur en série
+type: Tueur en série, pédophile
 ---
 
 ## Identité
