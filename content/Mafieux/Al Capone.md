@@ -6,7 +6,7 @@ tags: [mafia, USA, affaire-resolue]
 date_naissance: 1899-01-17
 date_deces: 1947-01-25
 statut: décédé (peine purgée pour fraude fiscale)
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/500px-Al_Capone_in_1930_%28manually_dusted%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: USA
 ---
 
