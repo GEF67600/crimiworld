@@ -143,11 +143,21 @@ body {
 }
 
 .liste-fiches a {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
   padding: 0.5rem 0.8rem;
   color: var(--text);
   text-decoration: none;
   font-size: 0.9rem;
+}
+  /* Photos bouton */
+.miniature {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 3px;
+  flex-shrink: 0;
 }
 
   /* Taille de la barre de recherche */

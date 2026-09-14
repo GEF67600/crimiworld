@@ -34,12 +34,17 @@
     <h1>{{ titre }}</h1>
     <ul class="liste-fiches">
       {% for fiche in fiches %}
-      <li><a href="{{ fiche.url | url }}">{{ fiche.data.titre }}</a></li>
+      <li>
+        <a href="{{ fiche.url | url }}">
+          {% if fiche.data.image %}<img src="{{ fiche.data.image | url }}" alt="" class="miniature">{% endif %}
+          <span>{{ fiche.data.titre }}</span>
+        </a>
+      </li>
       {% endfor %}
     </ul>
   </main>
   <footer class="site-footer">
-  <p>CRIMIWORLD INC © Georges Edouard FREY - Alsace 2026 - Tous droits réservés ®</p>
-</footer>
+    <p>CRIMIWORLD INC © Georges Edouard FREY - Alsace 2026 - Tous droits réservés ®</p>
+  </footer>
 </body>
 </html>
