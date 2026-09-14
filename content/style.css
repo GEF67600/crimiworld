@@ -16,20 +16,6 @@ body {
   line-height: 1.6;
 }
 
-.site-header {
-  padding: 1.5rem 2rem;
-  border-bottom: 1px solid var(--border);
-}
-
-.logo {
-  color: var(--accent);
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  font-size: 1.4rem;
-  letter-spacing: 2px;
-  text-decoration: none;
-}
-
 .fiche {
   max-width: 720px;
   margin: 0 auto;
@@ -78,13 +64,7 @@ body {
   color: var(--text-dim);
 }
 
-.logo-img {
-  max-height: 200px;
-  display: block;
-}
-
 /* Logo */
-
 .site-header {
   padding: 1.5rem 2rem;
   border-bottom: 1px solid var(--border);
@@ -92,9 +72,9 @@ body {
 }
 
 .logo-img {
+  max-height: 200px;
   display: inline-block;
 }
-
 /* Fin du logo */
 
 /* Menu de navigation */
@@ -151,7 +131,8 @@ body {
   text-decoration: none;
   font-size: 0.9rem;
 }
-  /* Photos bouton */
+
+/* Photos bouton */
 .miniature {
   width: 36px;
   height: 36px;
@@ -160,13 +141,28 @@ body {
   flex-shrink: 0;
 }
 
-  /* Taille de la barre de recherche */
+/* Taille de la barre de recherche */
 #search {
-  max-width: 350px;
+  max-width: 180px;
   margin-left: auto;
 }
 
-  /* Taille maximum des images */
+.pagefind-ui__form {
+  width: 100%;
+}
+
+.pagefind-ui__search-input {
+  padding: 0.4rem 0.6rem;
+  font-size: 0.85rem;
+  width: 100%;
+}
+
+.pagefind-ui__button {
+  font-size: 0.75rem;
+  padding: 0.3rem 0.6rem;
+}
+
+/* Taille maximum des images */
 .fiche-contenu img {
   max-width: 300px;
   height: auto;
@@ -175,7 +171,7 @@ body {
   margin: 1rem 0;
 }
 
-  /* Pied de page */
+/* Pied de page */
 .site-footer {
   text-align: center;
   padding: 2rem 1rem;
@@ -200,4 +196,3 @@ body {
 .bouton-retour:hover {
   opacity: 0.7;
 }
-
