@@ -196,3 +196,16 @@ body {
 .bouton-retour:hover {
   opacity: 0.7;
 }
+
+.nom-fiche {
+  display: flex;
+  flex-direction: column;
+}
+
+.type-fiche {
+  color: var(--text-dim);
+  font-family: Arial, sans-serif;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}

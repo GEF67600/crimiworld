@@ -34,14 +34,17 @@
     {% set fiches = collections[collectionKey] %}
     <h1>{{ titre }}</h1>
     <ul class="liste-fiches">
-      {% for fiche in fiches %}
-      <li>
-        <a href="{{ fiche.url | url }}">
-          {% if fiche.data.image %}<img src="{{ fiche.data.image | url }}" alt="" class="miniature">{% endif %}
-          <span>{{ fiche.data.titre }}</span>
-        </a>
-      </li>
-      {% endfor %}
+{% for fiche in fiches %}
+<li>
+  <a href="{{ fiche.url | url }}">
+    {% if fiche.data.image %}<img src="{{ fiche.data.image | url }}" alt="" class="miniature">{% endif %}
+    <span class="nom-fiche">
+      {{ fiche.data.titre }}
+      {% if fiche.data.type %}<small class="type-fiche">{{ fiche.data.type }}</small>{% endif %}
+    </span>
+  </a>
+</li>
+{% endfor %}
     </ul>
   </main>
   <footer class="site-footer">
