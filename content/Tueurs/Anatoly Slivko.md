@@ -8,6 +8,7 @@ date_deces: 1989-01-11
 statut: exécuté
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAL1iE_tHyNJ4dnzZU5zisIxszuK6Bw31Yqz9eTSAYZg&s=10
 pays: URSS
+type: Tueur en Série
 ---
 
 ## Identité

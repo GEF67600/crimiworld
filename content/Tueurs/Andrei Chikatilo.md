@@ -8,6 +8,7 @@ date_deces: 1994-02-14
 statut: exécuté
 image: https://www.telegraph.co.uk/multimedia/archive/02265/Andrei-Chikatilo_2265484b.jpg
 pays: URSS / Russie
+type: Tueur en série
 ---
 
 ## Identité
