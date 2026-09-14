@@ -2,6 +2,7 @@
 layout: base.njk
 titre: R. Kelly
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, traite-humaine, musique, USA, affaire-resolue]
 date_naissance: 1967-01-08
 date_deces: 

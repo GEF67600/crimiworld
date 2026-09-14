@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ian Watkins
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, musique, Royaume-Uni, affaire-resolue]
 date_naissance: 1977-01-04
 date_deces: 2023-10-11

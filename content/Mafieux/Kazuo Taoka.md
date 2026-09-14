@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Kazuo Taoka
 categorie: Mafieux
+type: Chef Yakuza
 tags: [yakuza, Japon, affaire-resolue]
 date_naissance: 1913-03-28
 date_deces: 1981-07-23

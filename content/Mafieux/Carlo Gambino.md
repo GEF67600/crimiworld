@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Carlo Gambino
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, USA, affaire-resolue]
 date_naissance: 1902-08-24
 date_deces: 1976-10-15

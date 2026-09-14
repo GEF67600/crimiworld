@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Salvatore Riina
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, cosa-nostra, Italie, affaire-resolue]
 date_naissance: 1930-11-16
 date_deces: 2017-11-17

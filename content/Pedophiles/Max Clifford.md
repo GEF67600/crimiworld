@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Max Clifford
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1943-04-06
 date_deces: 2017-12-10

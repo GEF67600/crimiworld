@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Peter Ball
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, religion, Royaume-Uni, affaire-resolue]
 date_naissance: 1932-01-10
 date_deces: 2019-06-04

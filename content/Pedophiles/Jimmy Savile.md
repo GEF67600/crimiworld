@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jimmy Savile
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1926-10-31
 date_deces: 2011-10-29

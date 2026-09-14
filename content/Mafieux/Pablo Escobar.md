@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Pablo Escobar
 categorie: Mafieux
+type: Chef de Cartel
 tags: [narcotrafic, Colombie, affaire-resolue]
 date_naissance: 1949-12-01
 date_deces: 1993-12-02

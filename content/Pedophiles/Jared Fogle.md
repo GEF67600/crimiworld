@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jared Fogle
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, pedopornographie, USA, affaire-resolue]
 date_naissance: 1977-08-23
 date_deces: 

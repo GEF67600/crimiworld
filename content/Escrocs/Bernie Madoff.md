@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Bernie Madoff
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1938-04-29
 date_deces: 2021-04-14

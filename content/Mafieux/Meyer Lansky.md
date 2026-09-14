@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Meyer Lansky
 categorie: Mafieux
+type: Mafieux
 tags: [crime-organise, USA, affaire-resolue]
 date_naissance: 1902-07-04
 date_deces: 1983-01-15

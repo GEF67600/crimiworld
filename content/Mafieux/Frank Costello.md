@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Frank Costello
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, USA, affaire-resolue]
 date_naissance: 1891-01-26
 date_deces: 1973-02-18

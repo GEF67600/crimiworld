@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Harold Shipman
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, Royaume-Uni, medecin, affaire-resolue]
 date_naissance: 1946-01-14
 date_deces: 2004-01-13

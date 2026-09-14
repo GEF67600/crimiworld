@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Coree-du-Sud, affaire-resolue]
 date_naissance: 1970-04-18
 date_deces: 
 statut: condamné, en détention (peine capitale non exécutée)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55hSTqIKPd7MvCXbllpLnC5N7BoDl0U2ouzl7thc1Kw&s=10
 pays: Corée du Sud
 ---
 

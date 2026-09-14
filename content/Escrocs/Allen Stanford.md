@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Allen Stanford
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1950-03-24
 date_deces: 

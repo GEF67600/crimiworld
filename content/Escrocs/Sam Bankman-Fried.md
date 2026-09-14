@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Sam Bankman-Fried
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, cryptomonnaies, USA, affaire-resolue]
 date_naissance: 1992-03-06
 date_deces: 

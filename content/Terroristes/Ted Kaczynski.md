@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ted Kaczynski
 categorie: Terroristes
+type: Terroriste
 tags: [terrorisme, USA, affaire-resolue]
 date_naissance: 1942-05-22
 date_deces: 2023-06-10

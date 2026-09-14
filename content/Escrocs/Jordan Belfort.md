@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jordan Belfort
 categorie: Escrocs
+type: Escroc, fraudeur
 tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1962-07-09
 date_deces: 

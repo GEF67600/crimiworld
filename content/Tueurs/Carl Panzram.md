@@ -9,7 +9,6 @@ date_deces: 1930-09-05
 statut: exécuté
 image: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Carl_Panzram.jpg/250px-Carl_Panzram.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: USA
-type: Tueur en série
 ---
 
 ## Identité

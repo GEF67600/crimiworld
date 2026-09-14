@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Abu Bakr al-Baghdadi
 categorie: Terroristes
+type: Chef terroriste
 tags: [terrorisme, etat-islamique, Irak, affaire-resolue]
 date_naissance: 1971-07-28
 date_deces: 2019-10-27

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Martin Shkreli
 categorie: Escrocs
+type: Escroc, fraudeurs
 tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1983-03-17
 date_deces: 

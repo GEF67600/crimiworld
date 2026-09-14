@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ferdinand Waldo Demara
 categorie: Escrocs
+type: Escroc, usurpateur
 tags: [usurpation-identite, USA, affaire-resolue]
 date_naissance: 1921-12-21
 date_deces: 1982-06-07

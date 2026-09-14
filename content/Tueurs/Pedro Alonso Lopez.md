@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Pedro Alonso López
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, Colombie, Equateur, Perou, affaire-resolue]
 date_naissance: 1948-10-08
 date_deces: 

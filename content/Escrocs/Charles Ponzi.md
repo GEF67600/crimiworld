@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Charles Ponzi
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, Italie, USA, affaire-resolue]
 date_naissance: 1882-03-03
 date_deces: 1949-01-18

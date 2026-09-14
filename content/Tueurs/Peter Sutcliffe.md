@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Peter Sutcliffe
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, Royaume-Uni, affaire-resolue]
 date_naissance: 1946-06-02
 date_deces: 2020-11-13

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Salah Abdeslam
 categorie: Terroristes
+type: Terroriste
 tags: [terrorisme, etat-islamique, France, Belgique, affaire-resolue]
 date_naissance: 1989-09-15
 date_deces: 

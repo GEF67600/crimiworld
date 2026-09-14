@@ -2,6 +2,7 @@
 layout: base.njk
 titre: John Gotti
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, USA, affaire-resolue]
 date_naissance: 1940-10-27
 date_deces: 2002-06-10

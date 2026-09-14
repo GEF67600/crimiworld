@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Lou Pearlman
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, musique, USA, affaire-resolue]
 date_naissance: 1954-06-19
 date_deces: 2016-08-19

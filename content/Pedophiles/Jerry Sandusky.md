@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jerry Sandusky
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, sport, USA, affaire-resolue]
 date_naissance: 1944-01-26
 date_deces: 

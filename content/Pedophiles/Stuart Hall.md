@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Stuart Hall
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1929-12-04
 date_deces: 2022-08-24

@@ -8,6 +8,7 @@ date_deces:
 statut: condamné, en détention à vie
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLEFHbS94ZTBapprUkHDwnV-yL1QGA0-CoG5tHaKv0Lw&s=10
 pays: USA
+type: Tueur en série
 ---
 
 ## Identité

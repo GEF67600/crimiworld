@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ilich Ramírez Sánchez
 categorie: Terroristes
+type: Terroriste
 tags: [terrorisme, extreme-gauche, Venezuela, France, affaire-resolue]
 date_naissance: 1949-10-12
 date_deces: 

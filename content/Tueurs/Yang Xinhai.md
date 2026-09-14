@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Yang Xinhai
 categorie: Tueurs
+type: Tueurs en série
 tags: [tueur-en-serie, Chine, affaire-resolue]
 date_naissance: 1968-07-17
 date_deces: 2004-02-14

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: John Wayne Gacy
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1942-03-17
 date_deces: 1994-05-10

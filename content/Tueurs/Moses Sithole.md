@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Moses Sithole
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, Afrique-du-Sud, affaire-resolue]
 date_naissance: 1964-01-17
 date_deces: 

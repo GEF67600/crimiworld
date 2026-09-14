@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Semion Mogilevich
 categorie: Mafieux
+type: Mafia Russe
 tags: [mafia-russe, Ukraine, Russie, affaire-en-cours]
 date_naissance: 1946-06-30
 date_deces: 

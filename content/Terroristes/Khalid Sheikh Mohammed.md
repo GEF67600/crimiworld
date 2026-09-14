@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Khalid Sheikh Mohammed
 categorie: Terroristes
+type: Terroriste
 tags: [terrorisme, al-qaeda, Pakistan, affaire-en-cours]
 date_naissance: 1964-03-01
 date_deces: 

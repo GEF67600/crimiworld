@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Marc Dutroux
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, enlevement, Belgique, affaire-resolue]
 date_naissance: 1956-11-06
 date_deces: 

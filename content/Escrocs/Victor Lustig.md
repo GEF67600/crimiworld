@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Victor Lustig
 categorie: Escrocs
+type: Escroc, arnaqueur
 tags: [escroquerie, Europe, USA, affaire-resolue]
 date_naissance: 1890-01-04
 date_deces: 1947-03-11

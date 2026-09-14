@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Lucky Luciano
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, Italie, USA, affaire-resolue]
 date_naissance: 1897-11-24
 date_deces: 1962-01-26

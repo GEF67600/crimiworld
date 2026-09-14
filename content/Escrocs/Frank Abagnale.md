@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Frank Abagnale
 categorie: Escrocs
+type: Escroc
 tags: [usurpation-identite, escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1948-04-27
 date_deces: 

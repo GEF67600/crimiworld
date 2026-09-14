@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Timothy McVeigh
 categorie: Terroristes
+type: Terroriste
 tags: [terrorisme, extreme-droite, USA, affaire-resolue]
 date_naissance: 1968-04-23
 date_deces: 2001-06-11

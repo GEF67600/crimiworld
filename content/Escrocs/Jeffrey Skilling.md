@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jeffrey Skilling
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1953-11-25
 date_deces: 

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Sidney Cooke
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, Royaume-Uni, affaire-resolue]
 date_naissance: 1927-01-01
 date_deces: 

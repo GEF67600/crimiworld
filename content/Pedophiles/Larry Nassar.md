@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Larry Nassar
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, sport, medecin, USA, affaire-resolue]
 date_naissance: 1963-08-16
 date_deces: 

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Rolf Harris
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, Australie, Royaume-Uni, affaire-resolue]
 date_naissance: 1930-03-30
 date_deces: 2023-05-10

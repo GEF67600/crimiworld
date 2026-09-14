@@ -2,11 +2,8 @@
 layout: base.njk
 titre: Gary Glitter
 categorie: Pedophiles
-tags:
-  - Royaume-Uni
-  - Vietnam
-  - affaire_résolue
-  - justice
+type: Pédophile
+tags: [Royaume-Uni, Vietnam, affaire_résolue, justice]
 date_naissance: 1944-05-08
 date_deces:
 statut: condamné, en détention

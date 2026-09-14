@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Nick Leeson
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, Royaume-Uni, Singapour, affaire-resolue]
 date_naissance: 1967-02-25
 date_deces: 

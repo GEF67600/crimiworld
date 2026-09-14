@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ayman al-Zawahiri
 categorie: Terroristes
+type: Chef terroriste
 tags: [terrorisme, al-qaeda, Egypte, affaire-resolue]
 date_naissance: 1951-06-19
 date_deces: 2022-07-31

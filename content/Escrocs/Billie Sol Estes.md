@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Billie Sol Estes
 categorie: Escrocs
+type: Escroc, fraudeur
 tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1925-01-10
 date_deces: 2013-05-14

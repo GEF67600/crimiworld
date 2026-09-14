@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ed Gein
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1906-08-27
 date_deces: 1984-07-26

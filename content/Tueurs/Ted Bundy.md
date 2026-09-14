@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ted Bundy
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1946-11-24
 date_deces: 1989-01-24

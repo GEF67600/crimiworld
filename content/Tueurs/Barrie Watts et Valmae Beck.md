@@ -8,7 +8,7 @@ date_deces:
 statut: condamnés. Beck est décédée en prison en 2008.
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQj_oxOuMh0Bsw0BHkEOgNkLXmdi1RO5bHB_Pum-BQ7cIGjQI29UlGpE&s=10
 pays: Australie
-type: Tueurs en série
+type: Tueurs en couple
 ---
 
 ## Identité

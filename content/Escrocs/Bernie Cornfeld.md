@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Bernie Cornfeld
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, USA, Europe, affaire-resolue]
 date_naissance: 1927-08-17
 date_deces: 1995-02-27

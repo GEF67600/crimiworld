@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Joe Bonanno
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, USA, affaire-resolue]
 date_naissance: 1905-01-18
 date_deces: 2002-05-11

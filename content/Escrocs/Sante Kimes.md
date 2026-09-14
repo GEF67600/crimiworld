@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Sante Kimes
 categorie: Escrocs
+type: Escroc, fraudeurs
 tags: [escroquerie, usurpation-identite, USA, affaire-resolue]
 date_naissance: 1934-07-24
 date_deces: 2014-05-19

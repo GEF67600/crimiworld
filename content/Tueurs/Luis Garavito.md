@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Luis Garavito
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, Colombie, affaire-resolue]
 date_naissance: 1957-01-25
 date_deces: 

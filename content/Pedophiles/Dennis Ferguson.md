@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Dennis Ferguson
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, Australie, affaire-resolue]
 date_naissance: 1945-01-01
 date_deces: 2012-08-23

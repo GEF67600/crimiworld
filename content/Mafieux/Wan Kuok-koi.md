@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Wan Kuok-koi
 categorie: Mafieux
+type: Chef de Triade
 tags: [triade, Macao, Chine, affaire-resolue]
 date_naissance: 1955-05-03
 date_deces: 

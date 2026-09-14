@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Anna Sorokin
 categorie: Escrocs
+type: Escroc
 tags: [usurpation-identite, escroquerie, Allemagne, USA, affaire-resolue]
 date_naissance: 1991-01-23
 date_deces: 

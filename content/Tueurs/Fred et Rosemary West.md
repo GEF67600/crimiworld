@@ -2,10 +2,8 @@
 layout: base.njk
 titre: Fred et Rosemary West
 categorie: Tueurs
-tags:
-  - tueur-en-couple
-  - Royaume-Uni
-  - affaire-resolue
+type: Tueurs en couple
+tags: [tueur-en-couple, Royaume-Uni, affaire-resolue]
 date_naissance: 1941-09-29
 date_deces: 1995-01-01
 statut: décédé en détention (suicide, avant jugement)

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jeffrey Dahmer
 categorie: Tueurs
+type: Tueur en Série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1960-05-21
 date_deces: 1994-11-28

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Ghislaine Maxwell
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, traite-humaine, Royaume-Uni, USA, affaire-resolue]
 date_naissance: 1961-12-25
 date_deces: 

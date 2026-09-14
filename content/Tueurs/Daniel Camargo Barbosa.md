@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Colombie, Equateur, affaire-resolue]
 date_naissance: 1930-11-22
 date_deces: 1994-11-13
 statut: décédé (assassiné en détention)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXQ6lUgLMuF35XeEOGrh69FUPLx4KwCojwZevgQupQA&s=10
 pays: Colombie / Équateur
 ---
 

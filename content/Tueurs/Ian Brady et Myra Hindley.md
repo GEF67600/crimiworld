@@ -7,7 +7,7 @@ tags: [tueurs-en-couple, Royaume-Uni, affaire-resolue]
 date_naissance: 1938-01-02
 date_deces: 2017-04-22
 statut: Brady décédé en détention, Hindley décédée en détention en 2002
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHMJOYKbIDrqRt9R0tVoOiK77weCk6UPVyzV1kNsewKSuXQySutjx3SY&s=10
 pays: Royaume-Uni
 ---
 

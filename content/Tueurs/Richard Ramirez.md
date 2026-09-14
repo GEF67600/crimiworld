@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Richard Ramirez
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1960-02-29
 date_deces: 2013-06-07

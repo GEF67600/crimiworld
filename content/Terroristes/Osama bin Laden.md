@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Osama bin Laden
 categorie: Terroristes
+type: Chef terroriste
 tags: [terrorisme, al-qaeda, Arabie-Saoudite, affaire-resolue]
 date_naissance: 1957-03-10
 date_deces: 2011-05-02

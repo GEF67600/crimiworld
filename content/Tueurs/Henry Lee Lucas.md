@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Henry Lee Lucas
 categorie: Tueurs
+type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1936-08-23
 date_deces: 2001-03-13

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jeffrey Epstein
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, traite-humaine, USA, affaire-resolue]
 date_naissance: 1953-01-20
 date_deces: 2019-08-10

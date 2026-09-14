@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Whitey Bulger
 categorie: Mafieux
+type: Mafieux
 tags: [crime-organise, USA, affaire-resolue]
 date_naissance: 1929-09-03
 date_deces: 2018-10-30

@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Gregor MacGregor
 categorie: Escrocs
+type: Escroc
 tags: [escroquerie-financiere, Ecosse, Royaume-Uni, affaire-resolue]
 date_naissance: 1786-12-24
 date_deces: 1845-12-04

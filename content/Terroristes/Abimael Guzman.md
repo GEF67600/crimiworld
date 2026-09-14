@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Abimael Guzmán
 categorie: Terroristes
+type: Chef terroriste
 tags: [terrorisme, extreme-gauche, Perou, affaire-resolue]
 date_naissance: 1934-12-03
 date_deces: 2021-09-11

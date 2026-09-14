@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Joaquín Guzmán
 categorie: Mafieux
+type: Chef de Cartel
 tags: [narcotrafic, Mexique, affaire-resolue]
 date_naissance: 1957-04-04
 date_deces: 

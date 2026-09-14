@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Elizabeth Holmes
 categorie: Escrocs
+type: Escroc, fraudeuse
 tags: [escroquerie-financiere, sante, USA, affaire-resolue]
 date_naissance: 1984-02-03
 date_deces: 

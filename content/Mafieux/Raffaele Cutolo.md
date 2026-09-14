@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Raffaele Cutolo
 categorie: Mafieux
+type: Mafieux
 tags: [camorra, Italie, affaire-resolue]
 date_naissance: 1941-11-04
 date_deces: 2021-02-17

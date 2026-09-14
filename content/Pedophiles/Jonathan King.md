@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Jonathan King
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, musique, Royaume-Uni, affaire-resolue]
 date_naissance: 1944-12-06
 date_deces: 

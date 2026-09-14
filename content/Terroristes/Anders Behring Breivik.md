@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Anders Behring Breivik
 categorie: Terroristes
+type: Terroriste Norvégien
 tags: [terrorisme, extreme-droite, Norvege, affaire-resolue]
 date_naissance: 1979-02-13
 date_deces: 

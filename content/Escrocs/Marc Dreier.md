@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Marc Dreier
 categorie: Escrocs
+type: Escroc, fraudeur
 tags: [escroquerie-financiere, usurpation-identite, USA, affaire-resolue]
 date_naissance: 1950-06-25
 date_deces: 

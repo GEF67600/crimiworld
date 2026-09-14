@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Franklin Delano Floyd
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, enlevement, USA, affaire-resolue]
 date_naissance: 1943-01-17
 date_deces: 2021-01-30

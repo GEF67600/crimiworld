@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Roman Polanski
 categorie: Pedophiles
+type: Pédophile
 tags: [abus-sexuels-sur-mineurs, cinema, France, USA, Pologne, affaire-en-cours]
 date_naissance: 1933-08-18
 date_deces: 

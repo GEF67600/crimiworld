@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Canada, affaire-resolue]
 date_naissance: 1949-10-24
 date_deces: 2024-05-04
 statut: décédé en détention (agressé par un codétenu)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEJ-RdoCu2j8B7CIlmauAS8Mjd3FqMWdrLDzE4B9-6w&s=10
 pays: Canada
 ---
 

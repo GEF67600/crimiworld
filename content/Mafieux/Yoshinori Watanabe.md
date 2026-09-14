@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Yoshinori Watanabe
 categorie: Mafieux
+type: Chef Yakuza
 tags: [yakuza, Japon, affaire-resolue]
 date_naissance: 1941-01-01
 date_deces: 

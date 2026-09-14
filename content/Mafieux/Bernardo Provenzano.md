@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Bernardo Provenzano
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, cosa-nostra, Italie, affaire-resolue]
 date_naissance: 1933-01-31
 date_deces: 2016-07-13

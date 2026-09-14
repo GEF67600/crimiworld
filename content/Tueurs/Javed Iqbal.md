@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Javed Iqbal
 categorie: Tueurs
+type: Tueur en Série
 tags: [tueur-en-serie, Pakistan, affaire-resolue]
 date_naissance: 1956-10-08
 date_deces: 2001-10-08

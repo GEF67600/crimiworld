@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Christophe Rocancourt
 categorie: Escrocs
+type: Escroc, usurpateur
 tags: [usurpation-identite, escroquerie, France, USA, affaire-resolue]
 date_naissance: 1967-08-16
 date_deces: 

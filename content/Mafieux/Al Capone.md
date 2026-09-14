@@ -2,6 +2,7 @@
 layout: base.njk
 titre: Al Capone
 categorie: Mafieux
+type: Mafieux
 tags: [mafia, USA, affaire-resolue]
 date_naissance: 1899-01-17
 date_deces: 1947-01-25
