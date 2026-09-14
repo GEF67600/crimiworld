@@ -8,6 +8,7 @@ date_deces: 2002-10-09
 statut: exécutée
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmzB38u80MQP_SR3cE3X4uxkABDp13O4GPM1w-nha1Q&s=10
 pays: USA
+type: Tueuse en série
 ---
 
 ## Identité
