@@ -2,7 +2,7 @@
 layout: base.njk
 titre: Albert Fish
 categorie: Tueurs
-type: Tueur en série pédophile
+type: Tueur en série-pédophile
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1870-05-19
 date_deces: 1936-01-16

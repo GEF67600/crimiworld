@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 titre: Aileen Wuornos
-categorie: Tueurs
+categorie: Tueurs [7]
 tags: [tueuse-en-serie, USA, affaire-resolue]
 date_naissance: 1956-02-29
 date_deces: 2002-10-09

@@ -2,14 +2,13 @@
 layout: base.njk
 titre: Anatoly Onoprienko
 categorie: Tueurs
-type: Tueur en série
+type: Tueur en série [52]
 tags: [tueur-en-serie, Ukraine, affaire-resolue]
 date_naissance: 1959-07-25
 date_deces: 2013-08-27
 statut: décédé en détention
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiThwJ0cZt2PzrixgDH8gjAQ4tZWc4F0i65slUC5DLfw&s=10
 pays: Ukraine
-type: Tueur en série [52]
 ---
 
 ## Identité
