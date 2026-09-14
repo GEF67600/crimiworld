@@ -6,7 +6,7 @@ tags: [escroquerie-financiere, musique, USA, affaire-resolue]
 date_naissance: 1954-06-19
 date_deces: 2016-08-19
 statut: décédé en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPXj3RrhDA2S0ss7s5qg5ncG8V_H2qcvxhakt3LDQkA&s=10
 pays: USA
 ---
 

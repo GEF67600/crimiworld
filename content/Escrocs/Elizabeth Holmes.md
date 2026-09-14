@@ -6,11 +6,9 @@ tags: [escroquerie-financiere, sante, USA, affaire-resolue]
 date_naissance: 1984-02-03
 date_deces: 
 statut: condamnée, en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Elizabeth_Holmes_2014_cropped.jpg/250px-Elizabeth_Holmes_2014_cropped.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: USA
 ---
-
-![Elizabeth Holmes](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Elizabeth_Holmes_2014_cropped.jpg/250px-Elizabeth_Holmes_2014_cropped.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
 ## Identité
 

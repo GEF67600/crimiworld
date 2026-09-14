@@ -6,12 +6,9 @@ tags: [escroquerie-financiere, Ecosse, Royaume-Uni, affaire-resolue]
 date_naissance: 1786-12-24
 date_deces: 1845-12-04
 statut: décédé, jamais condamné en Grande-Bretagne
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3flTLRDy6_Qy442zO4bJKysrgzDpSnnyI_MlK-BOwbQ&s=10
 pays: Écosse
 ---
-
-![Gregor MacGregor](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/George_Watson_%281767-1837%29_-_Gregor_MacGregor_%281786%E2%80%931845%29%2C_Adventurer_-_PG_2201_-_National_Galleries_of_Scotland.jpg/250px-George_Watson_%281767-1837%29_-_Gregor_MacGregor_%281786%E2%80%931845%29%2C_Adventurer_-_PG_2201_-_National_Galleries_of_Scotland.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
 
 ## Identité
 

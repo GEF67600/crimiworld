@@ -6,12 +6,9 @@ tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1962-07-09
 date_deces: 
 statut: condamné, peine purgée, reconverti en conférencier
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zBhq6hc8adIiKK0-r5055xdPTI9OvRJ_1-UrMHCLNQ&s
 pays: USA
 ---
-
-![Jordan Belfort](https://upload.wikimedia.org/wikipedia/commons/8/89/Jordan_Belfort_-_May_30%2C_2010.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original)
-
 
 ## Identité
 

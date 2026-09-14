@@ -6,12 +6,9 @@ tags: [escroquerie-financiere, usurpation-identite, USA, affaire-resolue]
 date_naissance: 1950-06-25
 date_deces: 
 statut: condamné, peine purgée
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnr7q-wu2DRfqdqRghgFaJpOaErd_mMUsXKiY_B0&s=10
 pays: USA
 ---
-
-![Marc Dreier](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnr7q-wu2DRfqdqRghgFaJpOaErd_mMUsXKiY_B0&s=10)
-
 
 ## Identité
 

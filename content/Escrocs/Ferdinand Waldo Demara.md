@@ -6,7 +6,7 @@ tags: [usurpation-identite, USA, affaire-resolue]
 date_naissance: 1921-12-21
 date_deces: 1982-06-07
 statut: décédé (jamais lourdement condamné)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAhYYUAI8SZDHdp8im90p45748u9F45lUTHBfAkxvsg&s=10
 pays: USA
 ---
 

@@ -6,12 +6,9 @@ tags: [usurpation-identite, escroquerie, Allemagne, USA, affaire-resolue]
 date_naissance: 1991-01-23
 date_deces: 
 statut: condamnée, peine purgée, sous contrôle de l'immigration américaine
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AnnaDelvey-byPhilipRomano.jpg/500px-AnnaDelvey-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: Russie / Allemagne / USA
 ---
-
-![Anna Sorokin](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/AnnaDelvey-byPhilipRomano.jpg/250px-AnnaDelvey-byPhilipRomano.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
 
 ## Identité
 

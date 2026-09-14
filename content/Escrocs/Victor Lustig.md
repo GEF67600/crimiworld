@@ -6,12 +6,9 @@ tags: [escroquerie, Europe, USA, affaire-resolue]
 date_naissance: 1890-01-04
 date_deces: 1947-03-11
 statut: décédé en détention fédérale
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXK6yNyTNmMCyMO54eEHoahWskPoTt9oDXrNRd465LvA&s=10
 pays: Autriche-Hongrie / USA
 ---
-
-![Victor Lustig](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0VqItP3xdTbPFDn3du6adLgvBc8x5Nu5iBJnMBvKIxw&s=10)
-
 
 ## Identité
 

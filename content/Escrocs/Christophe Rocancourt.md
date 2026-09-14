@@ -6,7 +6,7 @@ tags: [usurpation-identite, escroquerie, France, USA, affaire-resolue]
 date_naissance: 1967-08-16
 date_deces: 
 statut: condamné, peine purgée
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRNqxMrB9d9I7lD32-_npKlhVri1kD8G4yjPpiVskONVG28lFmnzm_olqyM_oUXDOtF9PLlIwU-5DY0qYNTaseOdhvGsgBt4FECVcdbjE&s=10
 pays: France
 ---
 

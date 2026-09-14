@@ -6,7 +6,7 @@ tags: [escroquerie-financiere, Royaume-Uni, Singapour, affaire-resolue]
 date_naissance: 1967-02-25
 date_deces: 
 statut: condamné, peine purgée
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFinELrIRHuI6ht4qrbG1qFy7I8PcvTxtHBJ44Py_ORg&s=10
 pays: Royaume-Uni / Singapour
 ---
 

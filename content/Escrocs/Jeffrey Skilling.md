@@ -6,7 +6,7 @@ tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1953-11-25
 date_deces: 
 statut: condamné, peine purgée
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydmxoVx2Bv4C9QYthRb-Cxuvl504PnqHmiMSZLLSlmQ&s=10
 pays: USA
 ---
 

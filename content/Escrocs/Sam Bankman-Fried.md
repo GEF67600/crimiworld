@@ -6,12 +6,9 @@ tags: [escroquerie-financiere, cryptomonnaies, USA, affaire-resolue]
 date_naissance: 1992-03-06
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sam_Bankman-Fried.png/250px-Sam_Bankman-Fried.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: USA
 ---
-
-![Sam Bankman-Fried](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sam_Bankman-Fried.png/250px-Sam_Bankman-Fried.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
 
 ## Identité
 

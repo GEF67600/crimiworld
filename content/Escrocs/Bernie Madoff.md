@@ -6,12 +6,9 @@ tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1938-04-29
 date_deces: 2021-04-14
 statut: condamné, décédé en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/BernardMadoff.jpg/250px-BernardMadoff.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: USA
 ---
-
-![Bernard Madoff](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/BernardMadoff.jpg/250px-BernardMadoff.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
 
 ## Identité
 

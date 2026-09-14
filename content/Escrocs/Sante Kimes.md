@@ -6,7 +6,7 @@ tags: [escroquerie, usurpation-identite, USA, affaire-resolue]
 date_naissance: 1934-07-24
 date_deces: 2014-05-19
 statut: décédée en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSOOE7aE5yc_13NZ5xqM6j2JbRwakiQfwcyQeszPh1w&s=10
 pays: USA
 ---
 

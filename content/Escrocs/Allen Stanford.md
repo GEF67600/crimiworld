@@ -6,7 +6,7 @@ tags: [escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1950-03-24
 date_deces: 
 statut: condamné, en détention
-image: 
+image: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Allen_Stanford_mug_shot.jpg/500px-Allen_Stanford_mug_shot.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 pays: USA
 ---
 

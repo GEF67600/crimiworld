@@ -6,12 +6,9 @@ tags: [usurpation-identite, escroquerie-financiere, USA, affaire-resolue]
 date_naissance: 1948-04-27
 date_deces: 
 statut: condamné, peine purgée, reconverti en consultant sécurité
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQVQn4z6tPGQoKZncqSVCRjwUHlOrnrkDIznXbcNF7IA&s=10
 pays: USA
 ---
-
-![Frank Abagnale](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Frank_W._Abagnale_in_2008_%28cropped%29.jpg/250px-Frank_W._Abagnale_in_2008_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
-
 
 ## Identité
 

@@ -6,7 +6,7 @@ tags: [escroquerie-financiere, USA, Europe, affaire-resolue]
 date_naissance: 1927-08-17
 date_deces: 1995-02-27
 statut: décédé (brièvement détenu, jamais lourdement condamné)
-image: 
+image: https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRTSg70PMegCxpINrhg2kfNRgFPct-VOXNTx9wzKcL_oGKzgHVLEeKNmmHTARyBF9QEP3aJQREj-lhjEmlUAYoHOjRwCenrI6g6uPAUSvqs-AAmBg3x9shWBpc2Ife-Axvvn_TdJwQ_vLo&s=19
 pays: USA
 ---
 

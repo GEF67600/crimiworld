@@ -6,12 +6,9 @@ tags: [escroquerie-financiere, Italie, USA, affaire-resolue]
 date_naissance: 1882-03-03
 date_deces: 1949-01-18
 statut: condamné, expulsé des USA, décédé au Brésil
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhF8Zv9LDKLuxcevmlaeM3ccNrtk-zGtD1amzj9HMgQ&s=10
 pays: Italie / USA
 ---
-
-![Charles Ponzi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhF8Zv9LDKLuxcevmlaeM3ccNrtk-zGtD1amzj9HMgQ&s=10)
-
 
 ## Identité
 
