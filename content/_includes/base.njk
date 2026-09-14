@@ -30,6 +30,7 @@
   </header>
 
   <main class="fiche">
+  <a href="{{ ('/' + categorie + '/') | url }}" class="bouton-retour">← Retour à {{ categorie }}</a>
     <div class="fiche-entete">
       {% if image %}<img src="{{ image | url }}" alt="{{ titre }}" class="fiche-photo">{% endif %}
       <div>
