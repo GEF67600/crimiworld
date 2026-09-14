@@ -126,8 +126,8 @@ body {
 .liste-fiches {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.6rem;
   margin-top: 1.5rem;
 }
 
@@ -144,10 +144,10 @@ body {
 
 .liste-fiches a {
   display: block;
-  padding: 1rem;
+  padding: 0.5rem 0.8rem;
   color: var(--text);
   text-decoration: none;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
   /* Taille de la barre de recherche */
