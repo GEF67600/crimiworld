@@ -6,6 +6,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("mafieux", (api) => api.getFilteredByGlob("content/Mafieux/*.md"));
   eleventyConfig.addCollection("escrocs", (api) => api.getFilteredByGlob("content/Escrocs/*.md"));
   eleventyConfig.addCollection("pedophiles", (api) => api.getFilteredByGlob("content/Pedophiles/*.md"));
+  eleventyConfig.addCollection("terroristes", (api) => api.getFilteredByGlob("content/Terroristes/*.md"));
 
   
   return {
