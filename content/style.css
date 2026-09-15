@@ -209,3 +209,14 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
+
+.accueil {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.accueil-intro {
+  color: var(--text-dim);
+  margin-bottom: 1rem;
+}
