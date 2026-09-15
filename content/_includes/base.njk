@@ -45,6 +45,9 @@
     <div class="fiche-contenu">
       {{ content | safe }}
     </div>
+    </div>
+{% if categorie %}<a href="{{ ('/' + categorie + '/') | url }}" class="bouton-retour bouton-retour-bas">← Retour à {{ categorie }}</a>{% endif %}
+</main>
   </main>
   <footer class="site-footer">
   <p>CRIMIWORLD INC © Georges Edouard FREY - Alsace 2026 - Tous droits réservés ®</p>
