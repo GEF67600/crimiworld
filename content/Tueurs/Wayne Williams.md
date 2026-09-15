@@ -7,7 +7,7 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1958-05-27
 date_deces: 
 statut: condamné, en détention à vie
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgtwNpOtUfR71j6p1yltxDle_Ao0T-pgIB7PWm81luQ&s=10
 pays: USA
 ---
 

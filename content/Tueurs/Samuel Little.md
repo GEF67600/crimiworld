@@ -7,7 +7,7 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1940-06-07
 date_deces: 2020-12-30
 statut: décédé en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVlL6PumbgU2hacjZWGXobSZzvPJejsMWUYulDLyxxQ&s=10
 pays: USA
 ---
 

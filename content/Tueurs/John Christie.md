@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Royaume-Uni, affaire-resolue]
 date_naissance: 1899-04-08
 date_deces: 1953-07-15
 statut: exécuté
-image: 
+image: https://upload.wikimedia.org/wikipedia/en/8/82/Johnchristie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled
 pays: Royaume-Uni
 ---
 

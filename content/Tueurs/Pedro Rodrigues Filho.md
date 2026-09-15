@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Bresil, affaire-resolue]
 date_naissance: 1954-06-17
 date_deces: 2023-08-30
 statut: décédé (peine purgée, tué après sa libération)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nbOQsq81azM35K6a5QssgSWe2sV78hSPa6UysoQB5Q&s=10
 pays: Brésil
 ---
 

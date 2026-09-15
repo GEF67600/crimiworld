@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Allemagne, affaire-resolue]
 date_naissance: 1879-10-25
 date_deces: 1925-04-15
 statut: exécuté
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhEEZ28cSAasIkPJ8WueovpDbZnvZIOREa8QT6noLkQ&s=10
 pays: Allemagne
 ---
 

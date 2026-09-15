@@ -7,7 +7,7 @@ tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1978-01-07
 date_deces: 2012-12-02
 statut: décédé en détention (suicide avant jugement complet)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHAhwnyTZRPdZP9Am9RmuGsK4UnlGS9rt_nfAspbSCA&s=10
 pays: USA
 ---
 

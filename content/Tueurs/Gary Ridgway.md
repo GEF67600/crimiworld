@@ -5,9 +5,9 @@ categorie: Tueurs
 type: Tueur en série
 tags: [tueur-en-serie, USA, affaire-resolue]
 date_naissance: 1949-02-18
-date_deces: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BTvCDGb99g91D8vTEYjPFcsWzSG9czOIPKYeYTWfdw&s=10
+date_deces: 
 statut: condamné, en détention à vie
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLgRLrQIJBAC3AbpkazadqlQkFZHDvn129611mOGXUmQ&s=10
 pays: USA
 ---
 

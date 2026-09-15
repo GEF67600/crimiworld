@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Autriche, affaire-resolue]
 date_naissance: 1950-08-16
 date_deces: 1994-06-29
 statut: décédé en détention (suicide après condamnation)
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhScGRDv54-lc_N-r_cwf2HKE4N-BoAizoLHdVlwvIQ&s=10
 pays: Autriche
 ---
 

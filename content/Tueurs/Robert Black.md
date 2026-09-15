@@ -7,7 +7,7 @@ tags: [tueur-en-serie, Royaume-Uni, affaire-resolue]
 date_naissance: 1947-04-21
 date_deces: 2016-01-12
 statut: décédé en détention
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHB7cr2QTEkP6MrLKC15L4a3DDbYcjfHpKgr5xhNojg&s=10
 pays: Royaume-Uni
 ---
 
