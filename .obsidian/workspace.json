@@ -11,10 +11,14 @@
             "id": "51cbe5e40d080f06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Tueurs/Yoo Young-chul.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "Yoo Young-chul"
             }
           }
         ]
